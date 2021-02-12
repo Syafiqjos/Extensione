@@ -15,6 +15,8 @@ It's available for free on Android which can be downloaded on Google Play Store.
 
 ## Thank you
 Extensione always expanding, increasing and enhancing to create beautiful and fun environment to play. As a planet in the solar system and as a solar system in the universe. Let's make our own Extensione Galaxy vast and vary, so we could reach our beloved earth.
+
+## Feel Free to Hit Me
 [Youtube](https://www.youtube.com/channel/UCZUqG2Bx8mFDL4JqxcN66WA)
 [Instagram](http://instagram.com/syqscode)
 Discord : Syafiqjos#3248
