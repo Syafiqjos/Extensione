@@ -8,12 +8,13 @@ Please be nice with others on every opened issues.
 ![Extensione - Header](Images/Gameplay.jpg)
 
 ## Gameplay
-Extensione is a new Rhythm Game on Mobile, and it's a one man project, for fun and gains experience to connect with community.
+Extensione is a new Space-Themed Rhythm Game on Mobile, and it's a one man project, for fun and gains experience to connect with community.
 It's available for free on Android which can be downloaded on Google Play Store. Although it's a mobile game it is not available on iOS yet.
 
 [![Extensione - Google Play](Images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.syqscode.extensione)
 
 ## Thank you
+Extensione always expanding, increasing and enhancing to create beautiful and fun environment to play. As a planet in the solar system and as a solar system in the universe. Let's make our own Extensione Galaxy vast and vary, so we could reach our beloved earth.
 [Youtube](https://www.youtube.com/channel/UCZUqG2Bx8mFDL4JqxcN66WA)
 [Instagram](http://instagram.com/syqscode)
 Discord : Syafiqjos#3248
